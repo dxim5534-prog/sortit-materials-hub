@@ -32,10 +32,24 @@ nav:
   - Module 2: m2/index.md
   - Module 3:
       - Overview: m3/index.md
-      - Introduction to data analysis: m3/data-analysis-intro/index.md
-      - Using graphs and tables: m3/graphs-and-tables/index.md
-      - Interpretation of results: m3/interpretation/index.md
-      - "Tools: Excel and R": m3/tools-excel-r/index.md
-      - Practice dataset: m3/practice-dataset/index.md
+      - Day 1:
+          - Introduction to Module 3: m3/module-introduction/index.md
+          - Ethics approval process: m3/ethics-approval-review/index.md
+      - Day 2:
+          - Research impact and policy: m3/research-impact-policy/index.md
+          - Introduction to data analysis: m3/data-analysis-intro/index.md
+          - Using graphs and tables: m3/graphs-and-tables/index.md
+          - Practice dataset: m3/practice-dataset/index.md
+      - Day 3:
+          - Interpretation of results: m3/interpretation/index.md
+          - Structuring a written report: m3/writing-your-report/index.md
+          - Structuring an oral presentation: m3/oral-presentation/index.md
+      - Day 4:
+          - Introduction and methods: m3/introduction-and-methods/index.md
+          - Results and discussion: m3/results-and-discussion/index.md
+          - Submitting for publication: m3/submitting-for-publication/index.md
+      - Reference:
+          - "Tools: Excel and R": m3/tools-excel-r/index.md
   - Cohort 2026: cohorts/2026/index.md
   - Writing guide: guide/index.md
+  - Add your materials: contribute/index.md

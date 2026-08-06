@@ -10,6 +10,7 @@ are permanent - save them, share them on WhatsApp, they will still work next yea
 | **[Module 3](m3/index.md)** | Data analysis and communicating results |
 | **[Cohort 2026](cohorts/2026/index.md)** | Current cohort's schedule |
 | **[Writing guide](guide/index.md)** | Writing and publishing your paper |
+| **[Add your materials](contribute/index.md)** | For facilitators sharing session content |
 
 !!! warning "About the practice data"
     All practice datasets on this site are **simulated** - realistic but not real.
