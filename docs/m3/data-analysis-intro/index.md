@@ -13,4 +13,4 @@ Lecture 4 and its factsheets: variable types, mean vs median, the denominator ru
 | Activity 7 - Your analysis plan (participant worksheet) | [PDF](files/A7_Your-Analysis-Plan_WORKSHEET.pdf) · [Word](files/A7_Your-Analysis-Plan_WORKSHEET.docx) |
 
 ---
-*Version: 2026-08 · PDF for reading on a phone; the source file is for facilitators, adaptation and translation.*
+*Updated August 2026. PDF files open on any phone; Word and PowerPoint versions are provided for editing and translation.*

@@ -9,4 +9,4 @@ The Day 3 recap: turning numbers into findings a District Health Officer would a
 | English–Tetum glossary of analysis terms | [PDF](files/English-Tetum-Glossary.pdf) · [Word](files/English-Tetum-Glossary.docx) |
 
 ---
-*Version: 2026-08 · PDF for reading on a phone; the source file is for facilitators, adaptation and translation.*
+*Updated August 2026. PDF files open on any phone; Word and PowerPoint versions are provided for editing and translation.*

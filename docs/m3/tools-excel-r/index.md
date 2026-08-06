@@ -8,4 +8,4 @@ Keep these beside you during any analysis session. The Excel guide covers everyt
 | Factsheet 9 - R starter sheet (optional) | [PDF](files/FS9_R-Starter-Sheet.pdf) · [Word](files/FS9_R-Starter-Sheet.docx) |
 
 ---
-*Version: 2026-08 · PDF for reading on a phone; the source file is for facilitators, adaptation and translation.*
+*Updated August 2026. PDF files open on any phone; Word and PowerPoint versions are provided for editing and translation.*

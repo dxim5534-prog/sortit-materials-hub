@@ -191,6 +191,62 @@
 }
 .md-copyright__highlight { color: rgba(255, 255, 255, 0.85); }
 
+/* ===================================================================
+   Sidebar: clear parent / child hierarchy with collapsible sections
+   =================================================================== */
+
+/* top level (Home, Module 1-3, Schedule...) reads as a heading */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 650;
+  font-size: 0.76rem;
+  letter-spacing: -0.005em;
+}
+
+/* nested lists get an indent guide so depth is visible at a glance */
+.md-nav__item .md-nav__list {
+  margin-left: 0.35rem;
+  padding-left: 0.55rem;
+  border-left: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* second level (Day 1, Day 2...) - grouping label, slightly muted */
+.md-nav--primary .md-nav__item .md-nav__item > .md-nav__link {
+  font-weight: 600;
+  font-size: 0.72rem;
+}
+
+/* third level (the topics themselves) - lightest weight, the leaves */
+.md-nav--primary .md-nav__item .md-nav__item .md-nav__item > .md-nav__link {
+  font-weight: 400;
+  font-size: 0.7rem;
+}
+
+/* the expand / collapse arrow: make it obvious it is clickable */
+.md-nav__link .md-nav__icon {
+  opacity: 0.55;
+  transition: opacity 140ms, transform 200ms;
+}
+.md-nav__link:hover .md-nav__icon { opacity: 1; }
+.md-nav__item--nested > .md-nav__link { cursor: pointer; }
+
+/* the page you are on: solid marker, not just a colour change */
+.md-nav__link--active,
+.md-nav__link--active:focus,
+.md-nav__link--active:hover {
+  font-weight: 650 !important;
+  color: var(--md-accent-fg-color);
+}
+.md-nav--primary .md-nav__item .md-nav__item .md-nav__link--active {
+  border-left: 2px solid var(--md-accent-fg-color);
+  margin-left: -0.57rem;
+  padding-left: calc(0.57rem - 2px);
+}
+
+/* breathing room between top-level groups */
+.md-nav--primary > .md-nav__list > .md-nav__item {
+  margin-bottom: 0.15rem;
+}
+
 /* --------------------------------------------------------- small screens */
 @media screen and (max-width: 44.9375em) {
   .hero h1 { font-size: 1.55rem; }

@@ -8,4 +8,4 @@ A **simulated** TB treatment cohort - 181 rows, eight municipalities, 2024. Deli
 | Raw data (CSV - for R users) | [CSV](files/tb_cohort_timor_leste_2024_RAW.csv) |
 
 ---
-*Version: 2026-08 · PDF for reading on a phone; the source file is for facilitators, adaptation and translation.*
+*Updated August 2026. PDF files open on any phone; Word and PowerPoint versions are provided for editing and translation.*

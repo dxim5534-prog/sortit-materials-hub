@@ -1,8 +1,7 @@
 # How to add your materials
 
-Every session in this programme has a page with a permanent address. Adding your
-materials means putting files onto your page - the address never changes, so links
-already shared in WhatsApp groups keep working.
+Every session in this programme has its own page. Adding your materials means
+putting files onto that page.
 
 ## The simplest way: just send the files
 
