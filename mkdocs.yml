@@ -1,37 +1,82 @@
-site_name: SORT IT Timor-Leste — Materials
-site_description: Training materials for the SORT IT operational research programme
+site_name: SORT IT · Timor-Leste
+site_description: >-
+  Structured Operational Research and Training IniTiative (SORT IT) - Timor-Leste.
+  Training materials for the operational research programme.
 site_url: ""
+
+copyright: >-
+  Copyright &copy; 2026 SORT IT Timor-Leste ·
+  Structured Operational Research and Training IniTiative
+
 theme:
   name: material
+  language: en
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
-      accent: teal
-      toggle: { icon: material/brightness-7, name: Dark mode }
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
-      accent: teal
-      toggle: { icon: material/brightness-4, name: Light mode }
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/chart-timeline-variant
+    repo: fontawesome/brands/github
   features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
     - navigation.sections
     - navigation.top
-    - toc.integrate
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
     - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
-  - tables
   - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 plugins:
   - search
-  - offline
+
+extra:
+  generator: false
+
 nav:
   - Home: index.md
   - Module 1: m1/index.md
   - Module 2: m2/index.md
   - Module 3:
-      - Overview: m3/index.md
+      - m3/index.md
       - Day 1:
           - Introduction to Module 3: m3/module-introduction/index.md
           - Ethics approval process: m3/ethics-approval-review/index.md
@@ -50,6 +95,6 @@ nav:
           - Submitting for publication: m3/submitting-for-publication/index.md
       - Reference:
           - "Tools: Excel and R": m3/tools-excel-r/index.md
-  - Cohort 2026: cohorts/2026/index.md
+  - Schedule: cohorts/2026/index.md
   - Writing guide: guide/index.md
   - Add your materials: contribute/index.md

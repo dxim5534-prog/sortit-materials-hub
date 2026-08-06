@@ -1,0 +1,198 @@
+/* =====================================================================
+   SORT IT Timor-Leste - house style
+   Palette matches the printed training materials: navy, teal, amber.
+   ===================================================================== */
+
+:root {
+  --sortit-navy:   #1F3864;
+  --sortit-navy-2: #2C4E8A;
+  --sortit-teal:   #0F7B7B;
+  --sortit-amber:  #B37A00;
+
+  --md-primary-fg-color:        var(--sortit-navy);
+  --md-primary-fg-color--light: var(--sortit-navy-2);
+  --md-primary-fg-color--dark:  #16294A;
+  --md-accent-fg-color:         var(--sortit-teal);
+  --md-typeset-a-color:         var(--sortit-teal);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #16233A;
+  --md-primary-fg-color--light: #2C4E8A;
+  --md-primary-fg-color--dark:  #101A2B;
+  --md-accent-fg-color:         #4FC4BC;
+  --md-typeset-a-color:         #4FC4BC;
+  --md-default-bg-color:        #0F151C;
+}
+
+/* ------------------------------------------------ header: two-line brand */
+.md-header__title .md-header__topic:first-child .md-ellipsis {
+  white-space: normal;
+  line-height: 1.15;
+}
+.md-header__title .md-header__topic:first-child .md-ellipsis::after {
+  content: "Structured Operational Research and Training IniTiative";
+  display: block;
+  font-size: 0.60rem;
+  font-weight: 400;
+  letter-spacing: 0.015em;
+  opacity: 0.72;
+  margin-top: 1px;
+}
+/* one line only on phones - the subtitle would crowd the bar */
+@media screen and (max-width: 59.9375em) {
+  .md-header__title .md-header__topic:first-child .md-ellipsis::after {
+    display: none;
+  }
+}
+
+/* --------------------------------------------------------------- typography */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--md-default-fg-color);
+}
+.md-typeset h2 {
+  font-weight: 650;
+  letter-spacing: -0.01em;
+  margin-top: 2.2em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset h3 { font-weight: 620; }
+
+/* ------------------------------------------------------------------- hero */
+.hero {
+  margin: 0 0 2.4rem;
+  padding: 1.9rem 0 1.7rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.hero .eyebrow {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--md-accent-fg-color);
+  margin: 0 0 0.5rem;
+}
+.hero h1 {
+  margin: 0 0 0.55rem !important;
+  font-size: 1.95rem;
+  line-height: 1.15;
+}
+.hero .lede {
+  font-size: 0.86rem;
+  color: var(--md-default-fg-color--light);
+  max-width: 46rem;
+  margin: 0;
+}
+
+/* ------------------------------------------------------------ grid cards */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  padding: 1rem 1.1rem;
+  transition: border-color 160ms, box-shadow 160ms, transform 160ms;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 4px 18px -10px rgba(0, 0, 0, 0.35);
+  transform: translateY(-1px);
+}
+.md-typeset .grid.cards > ul > li > hr {
+  margin: 0.6rem 0;
+  border-color: var(--md-default-fg-color--lightest);
+}
+.md-typeset .grid.cards > ul > li p:last-child { margin-bottom: 0; }
+
+/* --------------------------------------------------------- status pills */
+.pill {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.14rem 0.5rem;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+.pill.ready {
+  background: rgba(15, 123, 123, 0.12);
+  color: var(--sortit-teal);
+}
+.pill.pending {
+  background: rgba(179, 122, 0, 0.13);
+  color: var(--sortit-amber);
+}
+[data-md-color-scheme="slate"] .pill.ready {
+  background: rgba(79, 196, 188, 0.16); color: #4FC4BC;
+}
+[data-md-color-scheme="slate"] .pill.pending {
+  background: rgba(224, 174, 75, 0.16); color: #E0AE4B;
+}
+
+/* -------------------------------------------------------------- tables */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  font-size: 0.74rem;
+}
+.md-typeset table:not([class]) th {
+  background: var(--md-default-fg-color--lightest);
+  font-weight: 650;
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.md-typeset table:not([class]) td { vertical-align: middle; }
+
+/* download links read as actions, not prose */
+.md-typeset table:not([class]) td a[href$=".pdf"],
+.md-typeset table:not([class]) td a[href$=".docx"],
+.md-typeset table:not([class]) td a[href$=".pptx"],
+.md-typeset table:not([class]) td a[href$=".xlsx"],
+.md-typeset table:not([class]) td a[href$=".csv"] {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 3px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color 140ms, background 140ms;
+}
+.md-typeset table:not([class]) td a[href$=".pdf"]:hover,
+.md-typeset table:not([class]) td a[href$=".docx"]:hover,
+.md-typeset table:not([class]) td a[href$=".pptx"]:hover,
+.md-typeset table:not([class]) td a[href$=".xlsx"]:hover,
+.md-typeset table:not([class]) td a[href$=".csv"]:hover {
+  border-color: var(--md-accent-fg-color);
+  background: rgba(15, 123, 123, 0.07);
+}
+
+/* ---------------------------------------------------------- admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 4px;
+  border-left-width: 3px;
+  font-size: 0.74rem;
+}
+
+/* ------------------------------------------------------------- footer */
+.md-footer-meta {
+  background: var(--md-primary-fg-color--dark);
+}
+.md-copyright {
+  font-size: 0.62rem;
+  line-height: 1.5;
+  width: 100%;
+  text-align: center;
+  padding: 0.4rem 0;
+}
+.md-copyright__highlight { color: rgba(255, 255, 255, 0.85); }
+
+/* --------------------------------------------------------- small screens */
+@media screen and (max-width: 44.9375em) {
+  .hero h1 { font-size: 1.55rem; }
+  .md-typeset table:not([class]) { font-size: 0.7rem; }
+}
