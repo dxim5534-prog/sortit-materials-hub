@@ -1,0 +1,182 @@
+﻿record_id,municipality,facility,age_years,sex,hiv_status,tb_type,smear_result,weight_kg,height_cm,diabetes,smoker,distance_to_facility_km,days_symptom_to_diagnosis,treatment_start_date,treatment_end_date,outcome
+TL-1000,Baucau,Hospital Referal Baucau,28,F,Negative,Pulmonary bacteriologically confirmed,3+,46.7,144.7,No,No,6.1,9,2024-01-20,2024-07-12,Cured
+TL-1001,Baucau,CHC Venilale,33,Male,Negative,Pulmonary bacteriologically confirmed,3+,51.5,155.3,No,No,7.8,202,2024-02-27,2024-09-07,Cured
+TL-1002,Covalima,Hospital Referal Suai,44,male,Unknown,Pulmonary clinically diagnosed,Negative,61.5,161.6,No,No,7.5,11,2024-03-27,2024-10-04,Cured
+TL-1003,Covalima,Hospital Referal Suai,55,Male,Unknown,Pulmonary bacteriologically confirmed,2+,45.3,168.7,No,No,32.7,27,2024-10-14,2025-04-27,Cured
+TL-1004,Ermera,CHC Railaco,45,Male,Negative,Extrapulmonary,Negative,56.7,160.5,No,No,10.0,31,2024-04-04,2024-09-22,Treatment completed
+TL-1005,Liquica,CHC Liquica,15,F,Unknown,Pulmonary bacteriologically confirmed,Scanty,39.3,157.2,No,No,7.4,18,2024-05-07,2024-11-20,Cured
+TL-1006,Baucau,Hospital Referal Baucau,33,Female,Unknown,Extrapulmonary,Negative,47.1,154.5,No,No,3.7,13,2024-01-16,2024-07-08,Not evaluated
+TL-1007,Dili,CHC Vera Cruz,27,Male,Negative,Pulmonary bacteriologically confirmed,1+,,151.3,No,No,52.6,38,2024-04-05,2024-09-27,Cured
+TL-1008,Bobonaro,Hospital Referal Maliana,38,male,Unknown,Pulmonary bacteriologically confirmed,2+,62.1,168.3,No,No,77.4,11,2024-04-18,2024-10-06,Cured
+TL-1009,Dili,Centro de Saude Comoro,11,F,Negative,Extrapulmonary,Negative,42.2,156.9,No,No,7.6,22,2024-09-21,2025-04-12,Treatment failed
+TL-1010,Manatuto,CHC Manatuto,9,Female,Negative,Pulmonary clinically diagnosed,Negative,45.5,146.8,No,Yes,0.5,15,2024-01-28,2024-07-20,Cured
+TL-1011,Manatuto,CHC Manatuto,40,Male,Negative,Pulmonary clinically diagnosed,Negative,51.1,163.5,No,No,10.1,171,2024-02-09,2024-08-08,Cured
+TL-1012,Dili,Hospital Nacional Guido Valadares,22,F,Negative,Extrapulmonary,Negative,48.3,154.9,No,No,3.2,10,2024-04-13,2024-06-30,Lost to follow-up
+TL-1013,Dili,Centro de Saude Comoro,23,Male,Negative,Pulmonary bacteriologically confirmed,2+,41.5,159.4,No,Unknown,8.1,21,2024-02-28,2024-08-17,Treatment completed
+TL-1014,Bobonaro,CHC Balibo,35,M,Unknown,Pulmonary bacteriologically confirmed,2+,55.2,165.8,No,Yes,9.9,9,2024-06-01,2024-12-17,Cured
+TL-1015,Dili,Centro de Saude Comoro,28,M,Unknown,Extrapulmonary,Negative,55.9,164.1,No,Yes,5.5,19,2024-08-10,2025-02-24,Treatment completed
+TL-1016,Baucau,Hospital Referal Baucau,47,Female,Negative,Pulmonary bacteriologically confirmed,1+,55.9,149.4,No,No,6.6,5,2024-11-10,2024-12-03,Died
+TL-1017,Liquica,CHC Liquica,46,Female,Unknown,Extrapulmonary,Negative,43.2,151.7,No,Unknown,1.2,22,2024-03-06,,
+TL-1018,Dili,Hospital Nacional Guido Valadares,2,M,Negative,Pulmonary clinically diagnosed,Not done,55.4,169.0,Yes,Yes,5.6,3,2024-11-14,2025-06-04,Cured
+TL-1019,Ermera,CHC Gleno,30,M,Negative,Pulmonary bacteriologically confirmed,3+,40.8,153.2,No,No,3.9,24,2024-02-28,2024-09-17,Cured
+TL-1020,Dili,Hospital Nacional Guido Valadares,31,Female,Negative,Pulmonary clinically diagnosed,Negative,30.0,148.4,No,Yes,0.2,26,2024-05-03,2024-05-13,Died
+TL-1021,Baucau,CHC Venilale,50,F,Negative,Pulmonary bacteriologically confirmed,2+,46.0,157.5,No,No,8.5,155,2024-10-14,2025-02-06,Died
+TL-1022,Oecusse,Hospital Referal Oecusse,28,Male,Negative,Pulmonary bacteriologically confirmed,1+,57.5,163.2,No,Yes,3.5,27,2024-08-11,2025-02-06,Treatment completed
+TL-1023,Bobonaro,CHC Balibo,199,M,Positive,Pulmonary bacteriologically confirmed,1+,61.6,163.6,Yes,No,5.4,18,2024-07-23,2025-01-30,Not evaluated
+TL-1024,Dili,Hospital Nacional Guido Valadares,30,F,Negative,Pulmonary bacteriologically confirmed,Scanty,63.2,143.7,Unknown,No,12.4,19,2024-04-28,2024-10-24,Cured
+TL-1025,Baucau,CHC Venilale,35,female,Unknown,Pulmonary bacteriologically confirmed,3+,45.8,150.3,No,Yes,8.0,19,2024-01-30,2024-07-20,Cured
+TL-1026,Liquica,CHC Liquica,37,M,Negative,Pulmonary bacteriologically confirmed,1+,50.9,165.1,No,No,4.3,29,2024-06-18,2024-07-22,Died
+TL-1027,Ermera,CHC Railaco,19,M,Unknown,Pulmonary clinically diagnosed,Negative,69.8,150.4,Unknown,Yes,7.3,12,2024-03-24,,
+TL-1028,Dili,CHC Vera Cruz,28,M,Negative,Pulmonary clinically diagnosed,Negative,59.2,160.4,No,Unknown,2.5,12,2024-11-10,2025-06-03,Treatment completed
+TL-1029,Dili,CHC Vera Cruz,59,M,Unknown,Pulmonary bacteriologically confirmed,3+,43.8,154.2,No,No,2.2,165,2024-09-13,2025-03-27,Cured
+TL-1030,Dili,Centro de Saude Comoro,50,M,Negative,Pulmonary bacteriologically confirmed,2+,45.2,164.5,No,No,3.5,7,2024-07-01,2024-12-26,Cured
+TL-1031,Dili,CHC Vera Cruz,39,F,Unknown,Pulmonary bacteriologically confirmed,2+,32.3,159.8,No,No,8.0,28,2024-11-22,2025-06-02,Cured
+TL-1032,Liquica,CHC Liquica,17,Male,Positive,Pulmonary clinically diagnosed,Negative,56.1,148.5,No,No,4.9,27,2024-05-08,2024-11-23,Cured
+TL-1033,Dili,CHC Vera Cruz,28,F,Negative,Pulmonary clinically diagnosed,Not done,34.6,154.8,No,No,4.1,18,2024-01-12,2024-07-10,Cured
+TL-1034,Dili,Hospital Nacional Guido Valadares,34,Female,Unknown,Pulmonary bacteriologically confirmed,1+,51.4,135.1,No,No,5.7,20,2024-07-15,2025-01-17,Treatment completed
+TL-1035,Liquica,CHC Liquica,46,F,Negative,Pulmonary clinically diagnosed,Not done,28,163.5,No,Yes,4.7,195,2024-08-25,2024-12-03,Lost to follow-up
+TL-1036,Manatuto,CHC Manatuto,40,F,Negative,Pulmonary clinically diagnosed,Negative,29.3,160.9,Unknown,No,7.5,13,2024-04-25,2024-10-15,Cured
+TL-1037,Dili,Centro de Saude Comoro,46,Female,Negative,Pulmonary clinically diagnosed,Negative,32.6,148.8,No,Unknown,5.9,9,2024-09-29,2025-04-13,Treatment completed
+TL-1038,Dili,Hospital Nacional Guido Valadares,28,female,Negative,Pulmonary clinically diagnosed,Negative,45.1,154.6,No,Yes,70.5,12,2024-07-16,2025-01-06,Cured
+TL-1039,Manatuto,CHC Manatuto,31,M,Negative,Pulmonary clinically diagnosed,Not done,50.1,166.2,No,Yes,4.8,14,2024-06-18,2024-12-25,Treatment completed
+TL-1040,Dili,CHC Vera Cruz,35,M,Unknown,Pulmonary bacteriologically confirmed,Scanty,55.2,163.9,No,No,8.8,17,2024-01-26,2024-08-18,Treatment completed
+TL-1041,Liquica,CHC Liquica,33,Male,Unknown,Pulmonary bacteriologically confirmed,3+,,165.7,No,No,6.9,11,2024-10-23,2025-05-01,Cured
+TL-1042,Dili,Hospital Nacional Guido Valadares,31,Male,Unknown,Pulmonary clinically diagnosed,Negative,62.6,157.5,No,Unknown,52.9,17,2024-02-27,2024-09-15,Cured
+TL-1043,Dili,Hospital Nacional Guido Valadares,28,M,Unknown,Pulmonary bacteriologically confirmed,2+,54.9,164.6,No,No,1.3,17,2024-10-31,2025-04-21,Cured
+TL-1044,Bobonaro,CHC Balibo,37,M,Unknown,Pulmonary clinically diagnosed,Negative,44.7,168.3,No,No,4.5,18,2024-11-26,2025-05-20,Cured
+TL-1045,Dili,Hospital Nacional Guido Valadares,48,M,Negative,Pulmonary clinically diagnosed,Negative,60.8,145.9,No,Unknown,10.6,28,2024-02-02,2024-08-24,Treatment completed
+TL-1046,Bobonaro,Hospital Referal Maliana,73,female,Positive,Pulmonary clinically diagnosed,Not done,28,161.7,No,No,5.2,27,2024-08-22,2025-02-15,Treatment completed
+TL-1047,Dili,Centro de Saude Comoro,48,Male,Negative,Pulmonary bacteriologically confirmed,3+,35.7,164.2,No,Yes,72.4,22,2024-06-20,2024-12-11,Not evaluated
+TL-1048,Bobonaro,Hospital Referal Maliana,58,M,Negative,Pulmonary clinically diagnosed,Negative,47.0,152.7,No,No,8.3,15,2024-11-09,2025-04-28,Cured
+TL-1049,Dili,Hospital Nacional Guido Valadares,26,F,Unknown,Pulmonary bacteriologically confirmed,1+,37.8,149.2,No,No,2.9,1,2024-06-29,2024-12-29,Cured
+TL-1050,Baucau,CHC Venilale,52,male,Negative,Pulmonary clinically diagnosed,Not done,50.8,164.4,No,No,37.8,160,2024-02-21,2024-08-08,Cured
+TL-1051,Dili,CHC Vera Cruz,31,male,Negative,Pulmonary clinically diagnosed,Negative,64.3,162.6,No,No,9.8,4,2024-06-16,2024-12-04,Cured
+TL-1052,Oecusse,Hospital Referal Oecusse,40,M,Negative,Pulmonary clinically diagnosed,Negative,54.0,164.3,No,No,7.4,8,2024-08-16,2025-02-13,Cured
+TL-1053,Covalima,Hospital Referal Suai,1,M,Positive,Pulmonary clinically diagnosed,Not done,49.3,159.6,No,Yes,61.9,35,2024-01-17,2024-07-10,Cured
+TL-1054,Oecusse,Hospital Referal Oecusse,43,M,Negative,Pulmonary bacteriologically confirmed,1+,60.1,169.9,Unknown,No,1.6,31,2024-10-15,2025-04-11,Cured
+TL-1055,Dili,CHC Vera Cruz,42,female,Negative,Extrapulmonary,Negative,53.0,146.9,Unknown,Yes,52.9,49,2024-10-26,2025-04-22,Treatment completed
+TL-1056,Dili,CHC Vera Cruz,46,M,Negative,Pulmonary bacteriologically confirmed,3+,51.0,172.0,Yes,No,2.7,15,2024-04-16,2024-11-01,Cured
+TL-1057,Dili,Centro de Saude Comoro,29,Male,Unknown,Pulmonary clinically diagnosed,Not done,50.7,165.9,No,Yes,2.8,19,2024-06-29,2024-06-17,Cured
+TL-1058,Baucau,CHC Venilale,58,Male,Unknown,Pulmonary bacteriologically confirmed,3+,55.8,171.2,No,No,25.2,16,2024-02-20,2024-09-05,Cured
+TL-1059,Covalima,Hospital Referal Suai,51,M,Negative,Extrapulmonary,Negative,54.4,170.9,Yes,No,16.1,14,2024-06-11,2024-12-28,Cured
+TL-1060,Covalima,Hospital Referal Suai,22,F,Negative,Extrapulmonary,Negative,38.3,146.5,No,No,8.8,15,2024-08-17,2025-02-01,Treatment completed
+TL-1061,Bobonaro,Hospital Referal Maliana,38,F,Unknown,Pulmonary bacteriologically confirmed,3+,47.6,148.2,No,Unknown,8.5,4,2024-07-05,2024-12-24,Cured
+TL-1062,Baucau,Hospital Referal Baucau,1,Female,Negative,Pulmonary bacteriologically confirmed,3+,33.9,156.5,Yes,No,6.0,124,2024-10-22,2024-12-01,Lost to follow-up
+TL-1063,Baucau,Hospital Referal Baucau,51,Male,Unknown,Pulmonary bacteriologically confirmed,2+,55.2,159.7,No,Yes,4.8,20,2024-03-27,2024-09-20,Cured
+TL-1064,Baucau,Hospital Referal Baucau,54,Male,Negative,Pulmonary bacteriologically confirmed,1+,47.2,155.2,No,Yes,5.4,35,2024-04-22,2024-10-25,Treatment completed
+TL-1065,Bobonaro,CHC Balibo,33,F,Unknown,Extrapulmonary,Negative,47.8,153.9,No,Yes,23.0,39,2024-01-28,2024-08-19,Not evaluated
+TL-1066,Dili,CHC Vera Cruz,42,F,Unknown,Pulmonary clinically diagnosed,Negative,47.2,153.0,No,Unknown,19.9,27,2024-04-12,2024-10-14,Cured
+TL-1067,Bobonaro,CHC Balibo,61,M,Negative,Pulmonary bacteriologically confirmed,3+,50.1,162.9,No,No,9.0,19,2024-08-29,2024-12-23,Died
+TL-1068,Liquica,CHC Liquica,32,F,Positive,Pulmonary bacteriologically confirmed,1+,48.3,154.6,Unknown,Yes,4.1,22,2024-08-31,2025-03-01,Treatment completed
+TL-1069,Dili,CHC Vera Cruz,11,M,Unknown,Pulmonary bacteriologically confirmed,1+,35.7,165.7,No,Yes,5.1,25,2024-04-23,2024-10-08,Treatment failed
+TL-1070,Baucau,Hospital Referal Baucau,45,M,Unknown,Pulmonary clinically diagnosed,Not done,51.9,154.4,No,No,7.2,140,2024-06-18,2024-12-30,Treatment completed
+TL-1071,Dili,Centro de Saude Comoro,18,M,Negative,Pulmonary clinically diagnosed,Negative,53.5,162.5,No,Yes,9.0,21,2024-09-04,2024-11-12,Lost to follow-up
+TL-1072,Baucau,CHC Venilale,4,M,Negative,Pulmonary bacteriologically confirmed,Scanty,51.6,166.5,No,No,11.5,16,2024-10-30,2025-05-07,Cured
+TL-1073,Baucau,Hospital Referal Baucau,35,Male,Negative,Extrapulmonary,Not done,51.9,171.3,No,No,60.6,41,2024-03-08,2024-09-04,Cured
+TL-1074,Oecusse,Hospital Referal Oecusse,38,F,Negative,Pulmonary clinically diagnosed,Negative,39.4,156.3,Yes,No,3.2,15,2024-04-07,2024-09-29,Cured
+TL-1075,Manatuto,CHC Manatuto,36,Male,Negative,Pulmonary clinically diagnosed,Not done,62.3,164.9,No,Yes,10.9,20,2024-02-29,2024-04-30,Died
+TL-1076,Dili,Centro de Saude Comoro,33,M,Negative,Pulmonary bacteriologically confirmed,2+,48.7,162.4,Unknown,No,3.4,17,2024-08-12,2025-02-09,Cured
+TL-1077,Ermera,CHC Gleno,46,female,Positive,Pulmonary bacteriologically confirmed,2+,46.7,157.5,Yes,No,9.0,23,2024-03-13,2024-08-30,Cured
+TL-1078,Baucau,Hospital Referal Baucau,34,M,Positive,Pulmonary clinically diagnosed,Negative,57.9,162.0,No,No,8.2,14,2024-10-05,2025-04-13,Cured
+TL-1079,Oecusse,Hospital Referal Oecusse,15,male,Unknown,Pulmonary clinically diagnosed,Negative,53.9,158.9,No,No,5.1,16,2024-03-21,2024-04-24,Lost to follow-up
+TL-1080,Dili,Centro de Saude Comoro,28,F,Negative,Pulmonary bacteriologically confirmed,2+,44.6,166.0,Unknown,No,9.3,5,2024-09-05,2024-12-06,Lost to follow-up
+TL-1081,Baucau,CHC Venilale,35,M,Negative,Pulmonary clinically diagnosed,Not done,49.5,163.8,Unknown,No,4.3,14,2024-07-25,2025-02-07,Cured
+TL-1082,Baucau,Hospital Referal Baucau,39,M,Negative,Pulmonary bacteriologically confirmed,2+,49.2,158.0,Yes,No,35.2,21,2024-10-21,2025-04-20,Treatment completed
+TL-1083,Dili,Hospital Nacional Guido Valadares,58,M,Negative,Pulmonary clinically diagnosed,Negative,49.5,166.9,Unknown,No,4.0,11,2024-03-20,2024-09-30,Cured
+TL-1084,Covalima,Hospital Referal Suai,23,F,Unknown,Pulmonary bacteriologically confirmed,2+,44.0,144.7,No,No,2.8,30,2024-01-11,2024-07-04,Treatment failed
+TL-1085,Bobonaro,CHC Balibo,5,Female,Negative,Pulmonary clinically diagnosed,Negative,28,141.2,Yes,Yes,8.3,23,2024-04-30,2024-10-24,Cured
+TL-1086,Manatuto,CHC Manatuto,30,Male,Negative,Pulmonary bacteriologically confirmed,3+,50.1,157.4,Unknown,No,5.2,21,2024-07-12,2025-01-07,Not evaluated
+TL-1087,Covalima,Hospital Referal Suai,55,Female,Unknown,Pulmonary bacteriologically confirmed,3+,44.2,151.9,Yes,Yes,2.0,164,2024-10-19,2025-05-09,Treatment failed
+TL-1088,Oecusse,Hospital Referal Oecusse,5,male,Unknown,Pulmonary bacteriologically confirmed,1+,,160.4,Unknown,No,3.7,186,2024-07-18,2024-11-15,Died
+TL-1089,Dili,CHC Vera Cruz,25,F,Unknown,Pulmonary bacteriologically confirmed,2+,39.8,144.6,No,No,7.4,24,2024-01-19,,
+TL-1090,Bobonaro,CHC Balibo,47,F,Negative,Pulmonary clinically diagnosed,Negative,40.3,160.1,Yes,Yes,4.6,19,2024-02-09,2024-08-23,Treatment completed
+TL-1091,Bobonaro,CHC Balibo,25,F,Unknown,Pulmonary bacteriologically confirmed,1+,59.8,150.5,Unknown,No,6.3,20,2024-03-19,2024-09-23,Cured
+TL-1092,Bobonaro,CHC Balibo,42,M,Unknown,Pulmonary bacteriologically confirmed,1+,56.6,168.1,No,No,5.6,9,2024-07-15,2025-01-02,Cured
+TL-1093,Bobonaro,Hospital Referal Maliana,36,F,Negative,Pulmonary bacteriologically confirmed,1+,34.7,148.1,No,Unknown,9.8,2,2024-09-05,2025-02-26,Cured
+TL-1094,Baucau,Hospital Referal Baucau,29,M,Negative,Pulmonary clinically diagnosed,Negative,36.8,156.1,No,Yes,7.8,4,2024-03-11,2024-04-14,Died
+TL-1095,Covalima,Hospital Referal Suai,1,Male,Negative,Pulmonary clinically diagnosed,Not done,62.7,173.0,No,No,2.3,29,2024-06-03,2024-12-10,Cured
+TL-1095,Covalima,Hospital Referal Suai,1,Male,Negative,Pulmonary clinically diagnosed,Not done,62.7,173.0,No,No,2.3,29,2024-06-03,2024-12-10,Cured
+TL-1096,Dili,Centro de Saude Comoro,44,F,Negative,Extrapulmonary,Negative,46.5,150.8,No,No,0.2,15,2024-07-31,2025-01-16,Treatment completed
+TL-1097,Liquica,CHC Liquica,37,F,Negative,Pulmonary clinically diagnosed,Negative,41.5,172.2,No,Yes,7.6,14,2024-09-28,2025-04-11,Cured
+TL-1098,Covalima,Hospital Referal Suai,21,F,Negative,Pulmonary clinically diagnosed,Negative,35.4,160.2,No,No,3.9,14,2024-09-10,2025-03-05,Cured
+TL-1099,Manatuto,CHC Manatuto,13,female,Negative,Pulmonary bacteriologically confirmed,2+,41.3,156.1,No,No,2.0,23,2024-11-03,2025-04-28,Cured
+TL-1100,Ermera,CHC Railaco,38,F,Positive,Pulmonary clinically diagnosed,Negative,40.6,160.9,No,No,63.8,40,2024-12-01,2025-05-18,Cured
+TL-1101,Dili,Centro de Saude Comoro,35,Female,Negative,Extrapulmonary,Negative,45.1,156.4,No,Yes,61.7,118,2024-11-28,2025-03-17,Lost to follow-up
+TL-1102,Dili,CHC Vera Cruz,30,F,Unknown,Extrapulmonary,Not done,55.8,151.9,No,No,7.8,18,2024-11-04,2025-04-27,Treatment completed
+TL-1103,Covalima,Hospital Referal Suai,52,F,Negative,Pulmonary bacteriologically confirmed,3+,44.6,158.1,Unknown,No,3.0,16,2024-11-24,2025-06-14,Cured
+TL-1104,Dili,Hospital Nacional Guido Valadares,27,M,Negative,Pulmonary bacteriologically confirmed,1+,53.8,163.6,No,Yes,5.5,24,2024-07-14,2024-09-06,Lost to follow-up
+TL-1105,Oecusse,Hospital Referal Oecusse,36,M,Positive,Pulmonary clinically diagnosed,Not done,48.4,160.1,No,Yes,8.4,25,2024-08-19,2025-02-19,Cured
+TL-1106,Dili,Centro de Saude Comoro,24,F,Unknown,Pulmonary clinically diagnosed,Negative,28,162.0,Yes,Yes,0.4,22,2024-11-13,2025-06-02,Treatment completed
+TL-1107,Liquica,CHC Liquica,31,F,Unknown,Pulmonary bacteriologically confirmed,2+,46.6,148.6,No,No,5.7,145,2024-01-29,2024-08-12,Cured
+TL-1108,Dili,CHC Vera Cruz,11,Female,Unknown,Pulmonary bacteriologically confirmed,1+,46.9,146.6,No,No,6.4,33,2024-05-20,2024-12-03,Cured
+TL-1109,Oecusse,Hospital Referal Oecusse,55,Female,Negative,Pulmonary clinically diagnosed,Not done,39.0,143.8,Yes,No,24.0,73,2024-02-14,2024-08-24,Treatment completed
+TL-1110,Bobonaro,CHC Balibo,49,M,Negative,Pulmonary clinically diagnosed,Not done,47.3,161.1,No,No,6.6,31,2024-03-19,2024-09-12,Treatment completed
+TL-1111,Liquica,CHC Liquica,37,Male,Negative,Pulmonary bacteriologically confirmed,1+,36.8,160.2,No,No,12 km,21,2024-02-21,2024-08-18,Cured
+TL-1112,Dili,Hospital Nacional Guido Valadares,24,F,Negative,Pulmonary bacteriologically confirmed,2+,39.0,159.1,No,No,1.9,32,2024-10-19,2025-04-24,Not evaluated
+TL-1113,Dili,CHC Vera Cruz,35,M,Negative,Pulmonary bacteriologically confirmed,1+,51.5,162.9,No,No,8.2,192,2024-10-12,2025-03-29,Treatment completed
+TL-1114,Manatuto,CHC Manatuto,43,1,Unknown,Pulmonary bacteriologically confirmed,2+,52.9,158.8,Yes,No,49.9,12,2024-05-16,2024-11-29,Cured
+TL-1115,Dili,Centro de Saude Comoro,28,F,Negative,Pulmonary clinically diagnosed,Not done,40.4,150.4,No,No,7.2,80,2024-06-29,2025-01-19,Treatment completed
+TL-1116,Dili,CHC Vera Cruz,44,Female,Positive,Pulmonary clinically diagnosed,Negative,43.8,148.3,No,No,3.4,30,2024-04-04,2024-09-28,Not evaluated
+TL-1117,Dili,Centro de Saude Comoro,15,M,Unknown,Pulmonary clinically diagnosed,Negative,45.0,157.3,No,No,7.5,26,2024-03-31,2024-10-11,Cured
+TL-1118,Baucau,CHC Venilale,20,Female,Unknown,Pulmonary bacteriologically confirmed,2+,57.8,142.7,No,No,6.6,24,2024-06-19,2024-12-09,Cured
+TL-1119,Bobonaro,CHC Balibo,39,F,Unknown,Pulmonary clinically diagnosed,Negative,34.3,150.4,No,Yes,7.5,20,2024-02-27,2024-05-07,Lost to follow-up
+TL-1120,Dili,CHC Vera Cruz,42,M,Negative,Pulmonary clinically diagnosed,Negative,65.8,154.9,No,Unknown,1.9,20,2024-05-01,2024-10-21,Cured
+TL-1121,Dili,Hospital Nacional Guido Valadares,52,M,Unknown,Pulmonary clinically diagnosed,Not done,34.1,160.9,Yes,Yes,2.2,30,2024-04-13,2024-10-14,Not evaluated
+TL-1122,Baucau,Hospital Referal Baucau,16,Male,Negative,Pulmonary bacteriologically confirmed,2+,53.9,163.0,Unknown,No,5.0,11,2024-11-25,,
+TL-1123,Baucau,CHC Venilale,60,female,Negative,Pulmonary clinically diagnosed,Not done,56.9,149.6,No,No,44.6,13,2024-02-01,2024-03-02,Died
+TL-1124,Bobonaro,Hospital Referal Maliana,15,M,Negative,Pulmonary bacteriologically confirmed,1+,51.0,160.6,No,Yes,10.5,20,2024-09-12,2025-03-23,Treatment completed
+TL-1125,Baucau,Hospital Referal Baucau,42,F,Negative,Pulmonary bacteriologically confirmed,2+,40.1,152.3,No,Yes,11.9,19,2024-11-29,2025-01-18,Lost to follow-up
+TL-1126,Liquica,CHC Liquica,48,Male,Unknown,Pulmonary clinically diagnosed,Negative,55.6,162.4,No,Unknown,9.3,11,2024-10-13,2025-05-01,Cured
+TL-1127,Bobonaro,CHC Balibo,50,male,Negative,Pulmonary clinically diagnosed,Not done,63.8,160.0,No,Unknown,3.8,57,2024-04-29,2024-11-06,Cured
+TL-1128,Dili,Hospital Nacional Guido Valadares,64,Male,Positive,Pulmonary bacteriologically confirmed,Scanty,48.1,167.7,No,No,3.4,14,2024-12-02,2025-06-05,Cured
+TL-1129,Manatuto,CHC Manatuto,40,M,Negative,Pulmonary bacteriologically confirmed,3+,,160.5,Yes,No,1.4,15,2024-02-28,2024-09-12,Not evaluated
+TL-1130,Oecusse,Hospital Referal Oecusse,23,M,Negative,Extrapulmonary,Not done,53.9,148.6,Unknown,No,4.6,11,2024-03-22,2024-09-09,Cured
+TL-1131,Oecusse,Hospital Referal Oecusse,61,Female,Negative,Pulmonary bacteriologically confirmed,Scanty,43.8,152.6,Unknown,Unknown,47.4,23,2024-01-24,2024-07-27,Cured
+TL-1132,Manatuto,CHC Manatuto,31,Male,Unknown,Pulmonary clinically diagnosed,Not done,30.5,164.0,No,Unknown,5.5,27,2024-04-26,2024-10-22,Cured
+TL-1133,Liquica,CHC Liquica,34,Female,Negative,Pulmonary clinically diagnosed,Negative,52.0,178.4,Yes,Yes,2.9,10,2024-02-05,2024-07-31,Cured
+TL-1134,Dili,Hospital Nacional Guido Valadares,39,F,Negative,Pulmonary bacteriologically confirmed,2+,50.6,163.4,Unknown,No,32.6,17,2024-02-23,2024-06-19,Lost to follow-up
+TL-1135,Ermera,CHC Gleno,30,F,Negative,Pulmonary clinically diagnosed,Negative,43.9,139.8,No,No,6.1,16,2024-02-26,2024-09-10,Cured
+TL-1136,Oecusse,Hospital Referal Oecusse,67,Female,Negative,Pulmonary bacteriologically confirmed,3+,42.9,135,No,No,9.0,21,2024-06-11,2025-01-01,Cured
+TL-1137,Dili,Hospital Nacional Guido Valadares,50,M,Negative,Extrapulmonary,Negative,51.1,158.9,No,No,7.1,10,2024-10-07,2025-03-25,Cured
+TL-1138,Bobonaro,Hospital Referal Maliana,14,M,Negative,Pulmonary clinically diagnosed,Negative,46.3,169.9,No,Yes,9.8,7,2024-02-10,2024-08-02,Cured
+TL-1139,Dili,Centro de Saude Comoro,46,Male,Unknown,Pulmonary bacteriologically confirmed,1+,60.3,173.1,No,No,7.4,-7,2024-09-28,2025-04-16,Cured
+TL-1140,Ermera,CHC Gleno,30,M,Unknown,Pulmonary bacteriologically confirmed,1+,60.0,170.7,No,No,9.5,25,2024-04-13,2024-05-24,Died
+TL-1141,Baucau,Hospital Referal Baucau,62,F,Unknown,Pulmonary clinically diagnosed,Not done,32.8,148.7,No,No,7.0,27,2024-05-23,,
+TL-1142,Dili,Hospital Nacional Guido Valadares,32,female,Unknown,Pulmonary clinically diagnosed,Not done,53.3,145.3,No,No,77.5,32,2024-12-01,2025-02-20,Died
+TL-1143,Manatuto,CHC Manatuto,34,M,Negative,Pulmonary clinically diagnosed,Negative,63.7,158.4,No,No,2.2,89,2024-11-20,2025-06-05,Not evaluated
+TL-1144,Baucau,Hospital Referal Baucau,20,Male,Positive,Pulmonary bacteriologically confirmed,3+,60.7,166.0,Yes,No,2.4,10,2024-09-30,2025-04-02,Cured
+TL-1145,Baucau,Hospital Referal Baucau,48,F,Negative,Pulmonary bacteriologically confirmed,3+,38.6,144.6,No,Unknown,6.2,27,2024-09-04,2025-03-02,Not evaluated
+TL-1146,Liquica,CHC Liquica,58,Male,Negative,Extrapulmonary,Not done,56.8,151.5,Yes,Unknown,4.6,25,2024-06-23,2024-12-30,Cured
+TL-1147,Ermera,CHC Railaco,34,female,Negative,Pulmonary bacteriologically confirmed,3+,47.2,152.8,No,Yes,4.8,119,2024-02-03,2024-08-25,Cured
+TL-1148,Oecusse,Hospital Referal Oecusse,58,M,Negative,Extrapulmonary,Not done,37.4,170.5,Yes,Yes,10.1,21,2024-09-11,2025-02-27,Cured
+TL-1149,Oecusse,Hospital Referal Oecusse,79,Male,Negative,Pulmonary clinically diagnosed,Negative,50.6,160.6,Unknown,No,4.5,28,2024-05-04,2024-07-16,Lost to follow-up
+TL-1150,Manatuto,CHC Manatuto,53,F,Unknown,Pulmonary clinically diagnosed,Negative,33.3,155.1,No,Yes,9.4,14,2024-01-25,2024-04-24,Died
+TL-1151,Manatuto,CHC Manatuto,80,F,Unknown,Pulmonary clinically diagnosed,Negative,49.4,170.0,No,Unknown,12.6,1,2024-02-21,2024-09-05,Cured
+TL-1152,Liquica,CHC Liquica,42,F,Negative,Pulmonary clinically diagnosed,Negative,37.5,145.6,No,Yes,4.0,20,2024-01-15,2024-06-03,Lost to follow-up
+TL-1153,Oecusse,Hospital Referal Oecusse,34,Male,Unknown,Pulmonary bacteriologically confirmed,1+,54.0,155.2,Unknown,Unknown,34.7,41,2024-05-21,,
+TL-1154,Manatuto,CHC Manatuto,24,Male,Negative,Pulmonary bacteriologically confirmed,2+,47.1,156.7,Yes,Yes,23.3,1,2024-01-14,2024-07-01,Treatment completed
+TL-1155,Bobonaro,Hospital Referal Maliana,27,Female,Positive,Pulmonary clinically diagnosed,Negative,43.8,149.6,No,No,5.8,8,2024-06-22,2025-01-08,Cured
+TL-1156,Ermera,CHC Gleno,31,M,Negative,Pulmonary bacteriologically confirmed,2+,47.3,168.0,Yes,No,5.9,16,2024-05-06,2024-11-16,Not evaluated
+TL-1157,Ermera,CHC Railaco,30,M,Unknown,Pulmonary clinically diagnosed,Not done,60.8,156.1,No,Unknown,77.9,33,2024-03-22,2024-07-02,Lost to follow-up
+TL-1158,Ermera,CHC Gleno,44,Female,Negative,Pulmonary bacteriologically confirmed,2+,45.3,153.0,No,No,5.8,22,2024-02-05,2024-08-28,Cured
+TL-1159,Oecusse,Hospital Referal Oecusse,41,M,Negative,Pulmonary clinically diagnosed,Negative,58.4,164.0,Unknown,Unknown,5.9,19,2024-12-03,2025-05-22,Treatment completed
+TL-1160,Dili,Centro de Saude Comoro,17,M,Negative,Pulmonary clinically diagnosed,Negative,55.5,167.9,No,No,5.1,21,2024-08-29,2025-02-21,Cured
+TL-1161,Ermera,CHC Gleno,40,M,Unknown,Pulmonary bacteriologically confirmed,1+,50.4,168.2,No,No,7.3,26,2024-10-29,2025-05-11,Cured
+TL-1162,Ermera,CHC Gleno,29,M,Negative,Extrapulmonary,Negative,39.3,166.2,No,No,44.0,22,2024-04-07,2024-10-29,Cured
+TL-1163,Ermera,CHC Gleno,41,F,Negative,Pulmonary clinically diagnosed,Not done,40.6,161.4,No,Yes,2.3,17,2024-02-22,2024-08-28,Cured
+TL-1164,Dili,Hospital Nacional Guido Valadares,38,male,Negative,Pulmonary clinically diagnosed,Not done,59.1,163.3,No,Yes,7.6,20,2024-04-07,2024-08-04,Lost to follow-up
+TL-1165,Dili,Hospital Nacional Guido Valadares,18,M,Unknown,Extrapulmonary,Not done,42.0,170.2,No,Yes,2.2,30,2024-05-22,,
+TL-1166,Manatuto,CHC Manatuto,33,Male,Unknown,Pulmonary bacteriologically confirmed,2+,,167.4,Yes,Yes,7.9,20,2024-05-02,2024-06-28,Died
+TL-1167,Bobonaro,CHC Balibo,23,M,Negative,Pulmonary bacteriologically confirmed,1+,65.0,161.8,No,Yes,8.6,21,2024-03-09,2024-09-28,Treatment completed
+TL-1168,Dili,CHC Vera Cruz,39,1,Negative,Pulmonary bacteriologically confirmed,1+,59.8,165.2,Yes,No,6.6,25,2024-06-10,2024-12-16,Cured
+TL-1169,Baucau,Hospital Referal Baucau,38,Male,Unknown,Pulmonary bacteriologically confirmed,Scanty,49.4,156.4,No,No,5.9,196,2024-10-14,2024-12-26,Died
+TL-1170,Baucau,CHC Venilale,43,F,Negative,Extrapulmonary,Negative,55.8,142.6,No,No,8.0,16,2024-10-04,2025-04-19,Cured
+TL-1171,Liquica,CHC Liquica,20,F,Negative,Pulmonary clinically diagnosed,Not done,51.9,150.8,Yes,No,2.7,37,2024-04-18,2024-11-05,Cured
+TL-1172,Bobonaro,Hospital Referal Maliana,40,Male,Positive,Pulmonary bacteriologically confirmed,1+,61.1,171.0,Yes,No,4.0,158,2024-09-04,2025-02-22,Treatment completed
+TL-1173,Baucau,Hospital Referal Baucau,48,M,Unknown,Pulmonary clinically diagnosed,Not done,67.5,167.8,No,No,11.4,18,2024-11-09,2025-06-01,Cured
+TL-1174,Bobonaro,Hospital Referal Maliana,22,female,Negative,Pulmonary clinically diagnosed,Negative,48.2,150.0,No,No,8.0,20,2024-02-20,2024-08-29,Cured
+TL-1175,Baucau,CHC Venilale,6,Male,Negative,Extrapulmonary,Not done,52.5,162.5,Unknown,No,13.8,13,2024-01-10,2024-04-17,Lost to follow-up
+TL-1176,Baucau,CHC Venilale,59,Male,Unknown,Pulmonary bacteriologically confirmed,3+,54.0,160.7,Unknown,No,39.8,23,2024-03-14,2024-10-01,Cured
+TL-1177,Manatuto,CHC Manatuto,48,Male,Negative,Pulmonary bacteriologically confirmed,2+,42.8,164.3,No,No,16.4,11,2024-07-22,,
+TL-1178,Dili,CHC Vera Cruz,29,male,Negative,Pulmonary clinically diagnosed,Not done,39.8,159.0,No,No,6.6,24,2024-05-14,2024-11-14,Cured
+TL-1179,Dili,Centro de Saude Comoro,37,F,Positive,Pulmonary bacteriologically confirmed,1+,57.1,147.7,No,No,3.9,17,2024-02-06,2024-08-20,Cured

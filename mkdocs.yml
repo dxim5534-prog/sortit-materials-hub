@@ -1,0 +1,41 @@
+site_name: SORT IT Timor-Leste — Materials
+site_description: Training materials for the SORT IT operational research programme
+site_url: ""
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: teal
+      toggle: { icon: material/brightness-7, name: Dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle: { icon: material/brightness-4, name: Light mode }
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+plugins:
+  - search
+  - offline
+nav:
+  - Home: index.md
+  - Module 1: m1/index.md
+  - Module 2: m2/index.md
+  - Module 3:
+      - Overview: m3/index.md
+      - Introduction to data analysis: m3/data-analysis-intro/index.md
+      - Using graphs and tables: m3/graphs-and-tables/index.md
+      - Interpretation of results: m3/interpretation/index.md
+      - "Tools: Excel and R": m3/tools-excel-r/index.md
+      - Practice dataset: m3/practice-dataset/index.md
+  - Cohort 2026: cohorts/2026/index.md
+  - Writing guide: guide/index.md
