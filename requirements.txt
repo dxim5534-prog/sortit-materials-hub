@@ -1,0 +1,3 @@
+# Build dependencies for the materials hub.
+# Pinned below 10.x: MkDocs 2.0 will introduce backward-incompatible changes.
+mkdocs-material>=9.7,<10
