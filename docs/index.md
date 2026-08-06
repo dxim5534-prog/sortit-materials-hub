@@ -1,7 +1,7 @@
-# SORT IT Timor-Leste — training materials
+# SORT IT Timor-Leste - training materials
 
 All materials for the operational research training, in one place. Links on this site
-are permanent — save them, share them on WhatsApp, they will still work next year.
+are permanent - save them, share them on WhatsApp, they will still work next year.
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@ are permanent — save them, share them on WhatsApp, they will still work next y
 | **[Writing guide](guide/index.md)** | Writing and publishing your paper |
 
 !!! warning "About the practice data"
-    All practice datasets on this site are **simulated** — realistic but not real.
+    All practice datasets on this site are **simulated** - realistic but not real.
     They must never be quoted or reported as actual Timor-Leste data.
 
-*Pages you have opened stay readable offline — useful in the municipalities.*
+*Pages you have opened stay readable offline - useful in the municipalities.*

@@ -1,6 +1,6 @@
-# Cohort 2026 — schedule
+# Cohort 2026 - schedule
 
-*The current cohort's timetable. Each session links to its materials — the materials
+*The current cohort's timetable. Each session links to its materials - the materials
 pages themselves never change address.*
 
 | Day | Focus | Materials |

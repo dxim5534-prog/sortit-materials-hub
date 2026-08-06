@@ -1,4 +1,4 @@
-# Module 2 — Data collection and management
+# Module 2 - Data collection and management
 
 Materials for Module 2 will appear here as the Module 2 facilitator adds them.
 
