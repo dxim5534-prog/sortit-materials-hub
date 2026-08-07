@@ -247,6 +247,54 @@
   margin-bottom: 0.15rem;
 }
 
+/* ===================================================================
+   Tetum text (D-019: both languages on one page, no parallel tree)
+   Distinct enough to tell the languages apart at a glance, quiet
+   enough that neither reads as the "secondary" one.
+   =================================================================== */
+
+.md-typeset .tet,
+.md-typeset span.tet {
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+/* full paragraphs of Tetum get a marker rule down the left */
+.md-typeset p.tet {
+  border-left: 2px solid var(--md-accent-fg-color);
+  padding-left: 0.7rem;
+  margin-top: 0.35rem;
+  font-size: 0.75rem;
+  line-height: 1.65;
+}
+
+/* inside cards, Tetum follows the English on its own line */
+.md-typeset .grid.cards span.tet {
+  display: inline-block;
+  margin-top: 0.25rem;
+  font-size: 0.68rem;
+  line-height: 1.5;
+}
+
+/* Tetum alongside a heading - smaller, lighter, never competing with it */
+.md-typeset .tet-h {
+  font-size: 0.68em;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+  letter-spacing: 0;
+}
+.md-typeset h2 .tet-h::before { content: "· "; opacity: 0.5; }
+
+/* the hero lede in Tetum sits directly under the English one */
+.hero .lede.tet {
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+  border-left: 2px solid var(--md-accent-fg-color);
+  padding-left: 0.7rem;
+  font-style: italic;
+}
+
 /* --------------------------------------------------------- small screens */
 @media screen and (max-width: 44.9375em) {
   .hero h1 { font-size: 1.55rem; }

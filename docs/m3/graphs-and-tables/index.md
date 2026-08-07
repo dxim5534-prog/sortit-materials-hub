@@ -1,8 +1,10 @@
 # Using graphs and tables
 
+<p class="tet">Uza grafiku no tabela</p>
+
 Lecture 5 and the presentation factsheets: the anatomy of a readable table, choosing the right chart, and the group-work worksheet for building both on real data. Day 2, midday and afternoon.
 
-| Material | Download |
+| Material · Materiál | Download · Deskarga |
 |---|---|
 | Lecture 5 slides - Using graphs and tables | [PDF](files/Lecture5_Using-Graphs-and-Tables.pdf) · [PowerPoint](files/Lecture5_Using-Graphs-and-Tables.pptx) |
 | Factsheet 5 - Anatomy of a table people can read | [PDF](files/FS5_Anatomy-of-a-Good-Table.pdf) · [Word](files/FS5_Anatomy-of-a-Good-Table.docx) |

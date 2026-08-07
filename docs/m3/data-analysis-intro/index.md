@@ -1,8 +1,10 @@
 # Introduction to data analysis
 
+<p class="tet">Introdusaun ba analiza dadus</p>
+
 Lecture 4 and its factsheets: variable types, mean vs median, the denominator rule, and cleaning data before you count. Used on Day 2 morning, and the foundation for everything after it.
 
-| Material | Download |
+| Material · Materiál | Download · Deskarga |
 |---|---|
 | Lecture 4 slides - Introduction to data analysis | [PDF](files/Lecture4_Introduction-to-Data-Analysis.pdf) · [PowerPoint](files/Lecture4_Introduction-to-Data-Analysis.pptx) |
 | Factsheet 1 - Know your variable | [PDF](files/FS1_Know-Your-Variable.pdf) · [Word](files/FS1_Know-Your-Variable.docx) |

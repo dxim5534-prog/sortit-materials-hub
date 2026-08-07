@@ -1,11 +1,13 @@
 # Module 3 - Data analysis and communicating results
 
+<p class="tet">Analiza dadus no komunika rezultadu</p>
+
 The four-day module covering analysis, interpretation, writing and publication.
 
 Materials are grouped **by topic, not by session number**, so links stay valid even when
 the timetable changes between cohorts.
 
-## Available now
+## Available now  <span class="tet-h">Disponivel agora</span>
 
 | Topic | When | Status |
 |---|---|---|
@@ -15,7 +17,7 @@ the timetable changes between cohorts.
 | [Tools: Excel and R](tools-excel-r/index.md) | Day 2-4, Reference | :material-check: **Available** |
 | [Practice dataset](practice-dataset/index.md) | Day 2, Exercises | :material-check: **Available** |
 
-## Coming soon
+## Coming soon  <span class="tet-h">Sei disponivel iha tempo badak</span>
 
 | Topic | When | Status |
 |---|---|---|

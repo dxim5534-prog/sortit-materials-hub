@@ -2,9 +2,11 @@
 
 The four-day timetable for the current cohort. Each session links to its materials.
 
+<p class="tet" markdown>Oráriu loron haat ba grupu atuál. Sesaun ida-idak liga ba nia materiál.</p>
+
 ## Day 1 - Review of progress with operational research projects
 
-| Time | Session | Materials |
+| Time · Oras | Session · Sesaun | Materials · Materiál |
 |---|---|---|
 | 09:40 | Lecture 1: Introduction to Module 3 | [Open](../../m3/module-introduction/index.md) |
 | 10:30 | Group discussion: research questions, study design, data collection | - |
@@ -15,7 +17,7 @@ The four-day timetable for the current cohort. Each session links to its materia
 
 ## Day 2 - Data analysis and interpretation of results
 
-| Time | Session | Materials |
+| Time · Oras | Session · Sesaun | Materials · Materiál |
 |---|---|---|
 | 09:00 | Lecture 3: Impact of research - using data to inform policy | [Open](../../m3/research-impact-policy/index.md) |
 | 10:00 | Lecture 4: Introduction to data analysis | [Materials](../../m3/data-analysis-intro/index.md) |
@@ -26,7 +28,7 @@ The four-day timetable for the current cohort. Each session links to its materia
 
 ## Day 3 - Communicating results of research
 
-| Time | Session | Materials |
+| Time · Oras | Session · Sesaun | Materials · Materiál |
 |---|---|---|
 | 09:00 | Recap: data analysis and results interpretation | [Materials](../../m3/interpretation/index.md) |
 | 10:00 | Group discussion: communicating results to different audiences | [Materials](../../m3/interpretation/index.md) |
@@ -37,7 +39,7 @@ The four-day timetable for the current cohort. Each session links to its materia
 
 ## Day 4 - Writing and publishing a manuscript
 
-| Time | Session | Materials |
+| Time · Oras | Session · Sesaun | Materials · Materiál |
 |---|---|---|
 | 09:00 | Recap: communicating results of research | - |
 | 09:30 | Lecture 8: Writing your introduction and methods | [Open](../../m3/introduction-and-methods/index.md) |
